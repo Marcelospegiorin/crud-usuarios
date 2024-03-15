@@ -17,6 +17,7 @@
    - Clone o repositório do backend do seu projeto.
    - Instale as dependências do projeto backend executando o comando `npm install`.
    - Configure o MySQL Workbench para usar a porta `3306`.
+   - Import o arquivo `crud_users.sql` no MySQL Workbench.
    - Execute o servidor Node.js executando o comando `npm start` ou `yarn start`. O servidor será executado na porta `8800`.
 
 2. **Configuração do Frontend (ReactJS)**:
